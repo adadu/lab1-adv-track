@@ -1,5 +1,7 @@
 "use strict";
 
+//Jason Anderson, CF F2, Lab1, June 1
+
 /* LAB 1: A Trip to Woodland Park Zoo
 
  Welcome to Lab 1 =)
